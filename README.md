@@ -10,7 +10,9 @@ Welcome to our process of creating an anti-drunk-driving campaign completely thr
 In this document, you will have access to both our Health Communication Campaign PDF and then the following evaluations. 
 
 1. [Campaign development and images](COMM_Health_Campaign.pdf)
-2. [Campaign Evaluation using LLMs](Comm_Campaign_Evaluations.pdf)
+   - Describes the development process using LLM prompting for the two campaigns
+3. [Campaign Evaluation using LLMs](Comm_Campaign_Evaluations.pdf)
+   - Shows the evaluation of the campaigns using LLMs
 
 ### TLDR
 * Click the [FinalCampaignImages Notebook](FinalCampaigns.ipynb) to see our final campaign images for the Individual Responsibility of a Drunk Driver versus the Social Responsibility of a Drunk Driver.
@@ -26,7 +28,7 @@ In this document, you will have access to both our Health Communication Campaign
 ![](socialinstagram.png)
 
 #### Infographic
-![](socialinforgraphic.png)
+![](socialinfographic.png)
 
 ### Individual
 
@@ -34,4 +36,4 @@ In this document, you will have access to both our Health Communication Campaign
 ![](individualinstagram.png)
 
 #### Infographic
-![](individualgraphic.png)
+![](individualinfographic.png)
