@@ -15,7 +15,7 @@ In this document, you will have access to both our Health Communication Campaign
    - Shows the evaluation of the campaigns using LLMs
 
 ### TLDR
-* Click the [FinalCampaignImages Notebook](FinalCampaigns.ipynb) to see our final campaign images for the Individual Responsibility of a Drunk Driver versus the Social Responsibility of a Drunk Driver.
+* See below our final campaign images for the Individual Responsibility of a Drunk Driver versus the Social Responsibility of a Drunk Driver.
 
 
 ### Campaign Images
